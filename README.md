@@ -1,86 +1,94 @@
-# 🚀 Nikhil Bansal
+# Nikhil Bansal
 
-### 🌟 **Full-Stack Web Developer | Problem Solver | Tech Enthusiast**
+## Full-Stack Web Developer | Problem Solver | Tech Enthusiast
 
-📧 **[Email Me](mailto:bansalnikhil750@gmail.com)** | 📱 **+91 9588225936**  
-🌐 **[LinkedIn](https://linkedin.com/in/nikhil-bansal-434745250)** | **[GitHub](https://github.com/Nik26sal)** | **[LeetCode](https://leetcode.com/u/Nik26sal)**  
-
----
-
-## 🎯 About Me
-
-Hey there! 👋 I'm **Nikhil Bansal**, a passionate **B.Tech Computer Science student** at **GLA University**, driven to create impactful digital solutions. With expertise in **Java**, **ReactJS**, **NodeJS**, and **ExpressJS**, I craft **scalable full-stack applications** that solve real-world problems.  
-
-💡 **Fun Fact**: I’ve conquered **400+ LeetCode problems**, blending my love for coding with a strong analytical mindset.  
+📧 [bansalnikhil750@gmail.com](mailto:bansalnikhil750@gmail.com) | 📱 +91 9588225936  
+🌐 [LinkedIn](https://linkedin.com/in/nikhil-bansal-434745250) | [GitHub](https://github.com/Nik26sal) | [LeetCode](https://leetcode.com/u/Nik26sal)  
 
 ---
 
-## 🎓 Education
+## About Me
 
-📘 **Bachelor of Technology in Computer Science**  
-*GLA University, Mathura* (CGPA: 8.38)  
-🎓 *Expected Graduation: June 2026*  
+I am a highly motivated **Full-Stack Web Developer** and a **B.Tech Computer Science student** at **GLA University** with a strong passion for developing scalable and efficient web applications. With proficiency in **Java**, **ReactJS**, **NodeJS**, and **ExpressJS**, I specialize in designing and implementing full-stack solutions to address real-world challenges.
 
-📘 **Intermediate (87.6%)**  
-*Sony Academy School, Bharatpur (2022)*  
-
-📘 **High School (83.83%)**  
-*Sony Academy School, Bharatpur (2020)*  
+In addition to my development skills, I have a strong foundation in **data structures and algorithms**, demonstrated by solving **400+ problems on LeetCode**. I thrive in collaborative environments and am always eager to explore new technologies to enhance my skill set.
 
 ---
 
-## 🛠️ Projects That Define Me
+## Education
 
-### 🔐 **Photo Vault**
-- **Tech Stack**: ReactJS, NodeJS, MongoDB, ExpressJS, Tailwind CSS, Cloudinary  
-- **✨ Features**:  
-  - Secure photo storage with **Cloudinary**.  
-  - Encrypted user authentication.  
-  - Full CRUD operations for seamless user experience.  
+### **Bachelor of Technology in Computer Science**  
+GLA University, Mathura  
+**CGPA:** 8.38  
+*Expected Graduation: June 2026*  
 
-### ✍️ **Blog Site**
-- **Tech Stack**: ReactJS, NodeJS, MongoDB, ExpressJS, Tailwind CSS  
-- **✨ Features**:  
-  - A dynamic blogging platform.  
-  - Powered by MongoDB's robust CRUD capabilities.  
+### **Intermediate (Class 12)**  
+Sony Academy School, Bharatpur (2022)  
+**Percentage:** 87.6%  
 
-### 📹 **Video Streaming Platform**
-- **Tech Stack**: ReactJS, NodeJS, MongoDB, ExpressJS, Tailwind CSS, Cloudinary  
-- **✨ Features**:  
-  - Stream videos seamlessly with secure storage in **Cloudinary**.  
-  - Collaborative teamwork to manage user and video data pipelines.  
-
-### 💬 **Chit Chat World**
-- **Tech Stack**: ReactJS, NodeJS, MongoDB, ExpressJS, Tailwind CSS, Socket.IO  
-- **✨ Features**:  
-  - Real-time messaging using **WebSockets**.  
-  - Strong focus on secure API handling and authentication.  
+### **High School (Class 10)**  
+Sony Academy School, Bharatpur (2020)  
+**Percentage:** 83.83%  
 
 ---
 
-## 🧰 My Toolbox
+## Projects
 
-### 🔧 **Technical Skills**
-- **Languages**: Java, JavaScript  
-- **Frameworks & Tools**: ReactJS, NodeJS, ExpressJS  
-- **Databases**: MongoDB  
+### **Photo Vault** (Secure Photo Storage Application)
+- **Tech Stack:** ReactJS, NodeJS, MongoDB, ExpressJS, Tailwind CSS, Cloudinary  
+- **Key Features:**
+  - Secure photo storage and retrieval using **Cloudinary**.
+  - User authentication with encryption.
+  - Full **CRUD operations** ensuring seamless functionality.
 
-### 🧠 **Professional Skills**
-- 💬 Effective Communication  
-- 🤝 Team Collaboration  
-- 🌟 Problem-Solving Mastery  
+### **Blog Site** (Dynamic Blogging Platform)
+- **Tech Stack:** ReactJS, NodeJS, MongoDB, ExpressJS, Tailwind CSS  
+- **Key Features:**
+  - Intuitive interface for content creation and management.
+  - Robust CRUD capabilities powered by **MongoDB**.
+
+### **Video Streaming Platform**
+- **Tech Stack:** ReactJS, NodeJS, MongoDB, ExpressJS, Tailwind CSS, Cloudinary  
+- **Key Features:**
+  - Secure video storage and streaming using **Cloudinary**.
+  - Efficient user and video data management.
+
+### **Chit Chat World** (Real-Time Chat Application)
+- **Tech Stack:** ReactJS, NodeJS, MongoDB, ExpressJS, Tailwind CSS, Socket.IO  
+- **Key Features:**
+  - Real-time messaging powered by **WebSockets**.
+  - Secure API handling and authentication.
 
 ---
 
-## 🏆 Key Highlights
-- 👨‍💻 Solved **400+ LeetCode problems**, honing my algorithmic skills.  
-- 🛠️ Built multiple full-stack web applications showcasing my end-to-end development expertise.  
-- 💡 Always eager to learn, innovate, and contribute to meaningful projects.  
+## Technical Skills
+
+- **Programming Languages:** Java, JavaScript  
+- **Frameworks & Technologies:** ReactJS, NodeJS, ExpressJS  
+- **Databases:** MongoDB  
+- **Tools & Platforms:** Git, GitHub, Postman, Cloudinary  
 
 ---
 
-## 🌐 Let’s Build Something Great Together!
+## Professional Skills
 
-🚀 Feel free to explore my repositories, share your thoughts, or connect with me for collaborations and exciting opportunities.  
+- Strong problem-solving and analytical thinking
+- Effective communication and teamwork
+- Ability to adapt to new technologies and frameworks
 
-**👨‍💻 [Check out my GitHub](https://github.com/Nik26sal)**  
+---
+
+## Key Achievements
+
+- **400+ LeetCode problems solved**, demonstrating strong problem-solving skills and algorithmic proficiency.
+- Successfully developed and deployed multiple **full-stack web applications**.
+- Enthusiastic learner with a passion for **continuous growth** in the field of software development.
+
+---
+
+## Let's Connect!
+
+I am always open to new opportunities, collaborations, and discussions about innovative projects. Feel free to reach out to me!
+
+📩 [Email Me](mailto:bansalnikhil750@gmail.com) | 🌐 [GitHub](https://github.com/Nik26sal) | 🤝 [LinkedIn](https://linkedin.com/in/nikhil-bansal-434745250)
+
