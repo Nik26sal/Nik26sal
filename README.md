@@ -1,93 +1,91 @@
-🚀 Nikhil Bansal
+# 🚀 Nikhil Bansal
 
-🌟 Full-Stack Web Developer | Problem Solver | Tech Enthusiast
+## 🌟 Full-Stack Web Developer | Problem Solver | Tech Enthusiast
 
-📧 bansalnikhil750@gmail.com | 📱 +91 9588225936🌐 LinkedIn | GitHub | LeetCode
+📧 [bansalnikhil750@gmail.com](mailto:bansalnikhil750@gmail.com) | 📱 +91 9588225936  
+🌐 [LinkedIn](https://linkedin.com/in/nikhil-bansal-434745250) | [GitHub](https://github.com/Nik26sal) | [LeetCode](https://leetcode.com/u/Nik26sal)
 
-🎯 About Me
+---
 
-Hey there! 👋 I'm Nikhil Bansal, a passionate Full-Stack Web Developer and a B.Tech Computer Science student at GLA University. I love crafting scalable, efficient, and user-friendly web applications using Java, ReactJS, NodeJS, and ExpressJS.
+## 🏆 About Me
 
-🚀 Coding is my superpower! With 400+ LeetCode problems solved, I enjoy tackling algorithmic challenges and optimizing solutions. My goal? To build impactful digital experiences that solve real-world problems.
+I am a **Full-Stack Web Developer** with a passion for designing scalable and efficient applications. As a **B.Tech Computer Science** student at **GLA University**, I thrive in solving complex problems and delivering innovative digital solutions. My expertise lies in **Java, ReactJS, NodeJS, and ExpressJS**, and I have a strong foundation in **data structures and algorithms**, having solved **400+ LeetCode problems**.
 
-🎓 Education
+🚀 I love transforming ideas into reality through code and constantly learning new technologies to stay ahead in the ever-evolving tech landscape.
 
-📘 Bachelor of Technology in Computer ScienceGLA University, Mathura📊 CGPA: 8.38🎓 Expected Graduation: June 2026
+---
 
-📘 Intermediate (Class 12)Sony Academy School, Bharatpur (2022)📊 Percentage: 87.6%
+## 🎓 Education
 
-📘 High School (Class 10)Sony Academy School, Bharatpur (2020)📊 Percentage: 83.83%
+📘 **Bachelor of Technology in Computer Science**  
+*GLA University, Mathura*  
+📊 **CGPA:** 8.38  
+🎓 *Expected Graduation: June 2026*  
 
-🛠️ Featured Projects
+📘 **Intermediate (Class 12)**  
+*Sony Academy School, Bharatpur (2022)*  
+📊 **Percentage:** 87.6%  
 
-🔐 Photo Vault (Secure Photo Storage Application)
+📘 **High School (Class 10)**  
+*Sony Academy School, Bharatpur (2020)*  
+📊 **Percentage:** 83.83%  
 
-Tech Stack: ReactJS, NodeJS, MongoDB, ExpressJS, Tailwind CSS, Cloudinary
+---
 
-✨ Features:
+## 🛠️ Featured Projects
 
-Securely store and retrieve photos using Cloudinary.
+### 🔐 **Photo Vault** (Secure Photo Storage Application)
+- **Tech Stack:** ReactJS | NodeJS | MongoDB | ExpressJS | Tailwind CSS | Cloudinary  
+- **Key Features:**
+  - Secure storage with **Cloudinary**.
+  - Encrypted user authentication.
+  - Full **CRUD operations** for seamless management.
 
-Encrypted user authentication for enhanced security.
+### ✍️ **Blog Site** (Dynamic Blogging Platform)
+- **Tech Stack:** ReactJS | NodeJS | MongoDB | ExpressJS | Tailwind CSS  
+- **Key Features:**
+  - Interactive blogging experience.
+  - Efficient **MongoDB-powered** data handling.
+  - User-friendly interface with responsive design.
 
-Full CRUD operations ensuring seamless functionality.
+### 📹 **Video Streaming Platform**
+- **Tech Stack:** ReactJS | NodeJS | MongoDB | ExpressJS | Tailwind CSS | Cloudinary  
+- **Key Features:**
+  - High-performance video streaming.
+  - Secure cloud storage for media files.
+  - Scalable and optimized architecture.
 
-✍️ Blog Site (Dynamic Blogging Platform)
+### 💬 **Chit Chat World** (Real-Time Chat Application)
+- **Tech Stack:** ReactJS | NodeJS | MongoDB | ExpressJS | Tailwind CSS | Socket.IO  
+- **Key Features:**
+  - Real-time messaging with **WebSockets**.
+  - Secure API authentication.
+  - Interactive UI for seamless communication.
 
-Tech Stack: ReactJS, NodeJS, MongoDB, ExpressJS, Tailwind CSS
+---
 
-✨ Features:
+## ⚡ Tech Stack & Tools
 
-Interactive blogging interface for content creation.
+- **Programming Languages:** Java | JavaScript  
+- **Frontend:** ReactJS | Tailwind CSS  
+- **Backend:** NodeJS | ExpressJS  
+- **Database:** MongoDB  
+- **Version Control & Deployment:** Git | GitHub | Cloudinary | Postman  
 
-Efficient CRUD capabilities powered by MongoDB.
+---
 
-📹 Video Streaming Platform
+## 🚀 Achievements & Skills
 
-Tech Stack: ReactJS, NodeJS, MongoDB, ExpressJS, Tailwind CSS, Cloudinary
+✔ **400+ LeetCode problems solved**, enhancing my problem-solving capabilities.  
+✔ **Built and deployed multiple full-stack web applications**.  
+✔ **Strong analytical and debugging skills** for scalable application development.  
+✔ **Excellent communication & collaboration**, ensuring seamless teamwork.  
 
-✨ Features:
+---
 
-High-performance video streaming with Cloudinary storage.
+## 🤝 Let's Connect
 
-Advanced user and video data management.
+I’m actively looking for **internship opportunities** and would love to collaborate on exciting projects! Feel free to reach out. 🚀
 
-💬 Chit Chat World (Real-Time Chat Application)
+📩 **[Email Me](mailto:bansalnikhil750@gmail.com)** | 🌐 **[GitHub](https://github.com/Nik26sal)** | 🤝 **[LinkedIn](https://linkedin.com/in/nikhil-bansal-434745250)**
 
-Tech Stack: ReactJS, NodeJS, MongoDB, ExpressJS, Tailwind CSS, Socket.IO
-
-✨ Features:
-
-Real-time messaging powered by WebSockets.
-
-Secure API handling and user authentication.
-
-⚡ My Tech Stack
-
-🖥️ Languages & Frameworks
-
-🟨 JavaScript  🟦 Java  🟩 ReactJS  🟪 NodeJS  🟥 ExpressJS
-
-🛢️ Databases
-
-🟩 MongoDB
-
-🔧 Development Tools
-
-🟠 Git & GitHub  🟣 Postman  🟡 Cloudinary
-
-🚀 Achievements & Skills
-
-✅ 400+ LeetCode problems solved – sharpening my problem-solving skills.
-
-🏆 Built and deployed multiple full-stack web applications.
-
-🔥 Quick learner, always exploring new technologies.
-
-💬 Strong communication and collaboration skills.
-
-🤝 Let's Connect!
-
-I'm always excited to collaborate, learn, and build something amazing! Feel free to reach out. 🚀
-
-📩 Email Me | 🌐 GitHub | 🤝 LinkedIn
